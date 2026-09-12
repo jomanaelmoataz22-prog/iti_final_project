@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'login_screen.dart';
+import 'login_screen.dartgit init';
 import '../widgets/profile_widget.dart';
 
 class Profile extends StatelessWidget {
